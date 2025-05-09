@@ -19,8 +19,12 @@ This solution addresses the Crombie QA Automation Challenge for testing an e-com
 - npm (>= 10.8.2)
 
 ## Installation
-
-Install dependencies:
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/JMartinezTest/challenge.git
+   cd challenge
+   git checkout test
+2. **Install dependencies**:
 
 ```bash
 npm install
